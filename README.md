@@ -12,20 +12,20 @@
 
 - 📫 Reach me at **linhntet02@gmail.com**
 
-- 📄 Know about my experiences [https://www.phambahieu.com/](https://www.phambahieu.com/)
+- 📄 Know about my experiences [https://github.com/lisnake1412](https://github.com/lisnake1412)
 
 - ⚡ Fun fact **I keen on Blockchain and Trading.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hieupb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hieupb68" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hieupb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hieupb68" height="30" width="40" /></a>
-<a href="https://fb.com/hieupb69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieupb69" height="30" width="40" /></a>
-<a href="https://instagram.com/hieupb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hieupb68" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hieupb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hieupb68" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hieupb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hieupb68" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hieupb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hieupb68" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hieupb68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hieupb68" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hieupb68" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hieupb68" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieupb69" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hieupb68" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hieupb68" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hieupb68" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hieupb68" height="30" width="40" /></a>
+<a href="https://github.com/lisnake1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hieupb68" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
