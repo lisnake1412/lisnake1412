@@ -2,8 +2,6 @@
 <h3 align="center">A Fullstack Developer, DevOps and Network Engineer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://source.unsplash.com/random/300x200?sig=1">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hieupb68&label=Profile%20views&color=0e75b6&style=flat" alt="hieupb68" /> </p>
-
 - 🔭 I’m currently working on **System admin and Fullstack dev Part**
 
 - 🌱 I’m currently learning **Cloud**
