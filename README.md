@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieupb68&label=Profile%20views&color=0e75b6&style=flat" alt="hieupb68" /> </p>
 
-- 🔭 I’m currently working on **Front-End Part**
+- 🔭 I’m currently working on **System admin and Fullstack dev Part**
 
-- 🌱 I’m currently learning **Network**
+- 🌱 I’m currently learning **Cloud**
 
 - 💬 Ask me about **anything. If I know, I will reply ASAP!**
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://github.com/lisnake1412](https://github.com/lisnake1412)
 
-- ⚡ Fun fact **I keen on Blockchain and Trading.**
+- ⚡ Fun fact **I keen on Scraping Data from social platform and Making automation tools.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
